@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none; margin-bottom: 0;">Joshua Ibrom<br />(sk3p7ic)</h1>
-<h2 align="center">programmer. student. coffee addict.</h2>
+<div align="center"><code>programmer. student. coffee addict.</code></div>
 
 I'm a computer science student with a passion for learning and improving my skills as a fullstack developer with a
 concentration on the frontend. I am currently a student at Texas A&M - San Antonio studying computer science.
@@ -27,3 +27,11 @@ concentration on the frontend. I am currently a student at Texas A&M - San Anton
 <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+
+---
+
+### Links
+
+- Primary Website: [Joshua Ibrom](https://joshuaibrom.com)
+- Freelance Website: [Sk3p7ic Development](https://sk3p7ic.tech)
+- Twitter: [@real_sk3p7ic](https://twitter.com/real_sk3p7ic)
