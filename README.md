@@ -4,7 +4,9 @@
 
 I'm a junior software engineer / web developer and MS Computer Science student from San Antonio, Texas with a desire to expand my skillset and knowledge of full stack application development. I recently graduated from Texas A&M - San Antonio where I studied computer science. I have a background in Java, Python, and various web technologies such as React, Svelte, and Astro. Other interests include the Rust and Zig programming languages, especially as they relate to memory management.
 
-Research interests of mine are primarily in programming language design, primarily regarding functional programming languages such as Haskell and OCaml and those multi-paradigm languages like Rust. This then extends to concern the manner by which a language is defined with some grammar and type system as well as how that language encourages memory safety in comparison to the freedom given by languages such as C which, while fun to use for small personal projects, are too easy to make mistakes in which could cause a multitude of memory-related issues. Other research interests include the general dev ops tooling which may be used by developers and considering how the various tooling options may impact the developer experience and the potential impacts to customers that may occur as a result of a given tool / toolchain being used.
+Research interests of mine are primarily in programming language design, primarily regarding functional programming languages such as Haskell and OCaml and those multi-paradigm languages like Rust. This then extends to concern the manner by which a language is defined with some grammar and type system as well as how that language encourages memory safety in comparison to the freedom given by languages such as C, which, while fun to use for small personal projects, are too easy to make mistakes in which could cause a multitude of memory-related issues. Other research interests include the general dev ops tooling which may be used by developers and considering how the various tooling options may impact the developer experience and the potential impacts to customers that may occur as a result of a given tool / toolchain being used.
+
+[My Resume](https://www.joshuaibrom.com/res/Resume.pdf)
 
 ---
 
@@ -44,6 +46,7 @@ Research interests of mine are primarily in programming language design, primari
 <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 -->
+
 ---
 
 ### Links
